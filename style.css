@@ -1,0 +1,122 @@
+#s1 {
+    width: 200px; 
+    height: 200px; 
+    background: grey;
+    left: 400px;;
+    top: 40px;
+    position:absolute;
+    border: solid;
+    font-size: 120px;
+    text-align: center;
+    justify-content: center;
+
+}
+ #s2 {
+    width: 200px; 
+    height: 200px; 
+    background: grey;
+    left:600px;
+    position:absolute;
+    top:40px;
+    border: solid;
+    font-size: 120px;
+    text-align: center;
+    
+
+ }
+ #s3 {
+    width: 200px; 
+    height: 200px; 
+    background: grey;
+    position:absolute;
+    left: 800px;
+    top: 40px;
+    border: solid;
+    font-size: 120px;
+    text-align: center;
+}
+#s4 {
+    width: 200px; 
+    height: 200px; 
+    background: grey;
+    left:400px;
+    top:240px;
+    position:absolute;
+    border: solid;
+    font-size: 120px;
+    text-align: center;
+ }
+ #s5 {
+    width: 200px; 
+    height: 200px; 
+    background: grey;
+    left: 600px;
+    position:absolute;
+    top: 240px;
+    border: solid;
+    font-size: 120px;
+    text-align: center;
+
+ }
+ #s6 {
+    width: 200px; 
+    height: 200px; 
+    background: grey;
+    position:absolute;
+    left: 800px;
+    top: 240px;
+    border: solid;
+    font-size: 120px;
+    text-align: center;
+}
+#s7 {
+    width: 200px; 
+    height: 200px; 
+    background: grey;
+    left:400px;
+    top: 440px;
+    position:absolute;
+    border: solid;
+    font-size: 120px;
+    text-align: center;
+ }
+ #s8 {
+    width: 200px; 
+    height: 200px; 
+    background: grey;
+    left: 600px;
+    position:absolute;
+    top: 440px;
+    border: solid;
+    font-size: 120px;
+    text-align: center;
+
+ }
+ #s9 {
+    width: 200px; 
+    height: 200px; 
+    background: grey;
+    position:absolute;
+    left: 800px;
+    top: 440px;
+    border-width: 20px;
+    border-color: black;
+    border: solid;
+    font-size: 120px;
+    text-align: center;
+}
+
+#sıra {
+   font-size: 40px;
+   font-weight: bold;
+   margin-top:10%;
+}
+#kazanan{
+   font-size: 60px;
+   font-weight: bold;
+   margin-left: 100px;
+   margin-top:5%;
+}
+
+
+
